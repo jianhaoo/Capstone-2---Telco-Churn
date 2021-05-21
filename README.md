@@ -12,8 +12,3 @@ The purpose of this project is to have an overview of the company's health at th
 ![image](https://user-images.githubusercontent.com/34051347/119115390-b5ce8b80-ba59-11eb-8d72-e3cd80b483e2.png)
 
 
-###Overview of Retained Customers
-![image](https://user-images.githubusercontent.com/34051347/119115521-d39bf080-ba59-11eb-9c29-4b0309c6c377.png)
-
-
-
