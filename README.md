@@ -11,7 +11,7 @@ The purpose of this project is to have an overview of the company's health at th
 ![image](https://user-images.githubusercontent.com/34051347/119115343-a94a3300-ba59-11eb-93cc-d31708bc699f.png)
 
 
-#Overview of Retained Customers
+# Overview of Retained Customers
 ![image](https://user-images.githubusercontent.com/34051347/119116933-507b9a00-ba5b-11eb-8ddd-8752fa00e3f8.png)
 
 Demographics - 50.73% of the retained customers are male, and 49.27% of them are females.
